@@ -1,0 +1,1 @@
+cmd_/home/pi/lll-gpio-driver/lll-gpio-driver.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/lll-gpio-driver/lll-gpio-driver.ko /home/pi/lll-gpio-driver/lll-gpio-driver.o /home/pi/lll-gpio-driver/lll-gpio-driver.mod.o;  true
